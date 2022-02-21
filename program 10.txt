@@ -1,8 +1,6 @@
 //Program to Find Transpose of a Matrix
 public class Transpose {
 
-public class Transpose {
-
     public static void main(String[] args) {
         int row = 2, column = 3;
         int[][] matrix = { {5, 6, 4}, {2, 3, 4} };
